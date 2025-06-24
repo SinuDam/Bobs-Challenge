@@ -1,2 +1,17 @@
-# Bobs-Challenge
-Bob’s Challenge 🧩🤖: Given a binary array of 0s &amp; 1s, find the sum of medians of all subsequences of odd length k. Uses math 🔢, combinatorics 📊 &amp; fast modular arithmetic ⚡ to solve big inputs efficiently. Perfect for sharpening algorithm &amp; coding skills! 💻✨
+# Bob's Challenge 🧠💡
+
+This is a JavaScript solution to the "Bob's Challenge" algorithm problem, where you calculate the sum of medians of binary subsequences of a given length.
+
+## 📌 Problem Summary
+
+- Given a binary array of 0s and 1s
+- Find all subsequences of length `k` (odd)
+- Compute the **sum of medians** of all such subsequences
+
+## 🚀 How to Run
+
+1. Install Node.js if not already
+2. Add your test input in `input.txt`
+3. Run:
+```bash
+node bobs_challenge.js
